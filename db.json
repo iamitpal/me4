@@ -1,18 +1,5 @@
 {
   "users": [
-    {
-      "username": "san",
-      "email": "hello@gmail.com",
-      "pass": "hello123",
-      "repass": "san123",
-      "id": 1
-    },
-    {
-      "username": "admin",
-      "email": "eve.holt@reqres.in",
-      "pass": "cityslicka",
-      "repass": "cityslicka",
-      "id": 2
-    }
+    
   ]
 }
